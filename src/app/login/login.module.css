@@ -1,0 +1,20 @@
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+  color: gray;
+  margin: 1.3rem 1rem;
+}
+.containerInput{
+  
+  padding: 0.5rem;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  cursor: default;
+}
